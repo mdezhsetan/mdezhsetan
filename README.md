@@ -55,8 +55,5 @@
 
 <a href="https://www.linkedin.com/in/mahshad-dezhsetan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mahshad.dezhsetan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="skype:mahshad.dezhsetan?chat"><img src="https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white" alt="Skype" /></a>
-
-</div>
 
 
