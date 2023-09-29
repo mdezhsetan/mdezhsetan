@@ -5,7 +5,7 @@
 
 </div>
 
-> Passionate about delivering high-quality results, I am a Software QA Engineer with experience in manual and automated testing. I am proficient in Python, SQL, and various testing tools, always eager to learn and explore new technologies to enhance my skills.
+> Passionate about delivering high-quality results, I am a Software QA Engineer with experience in manual and automated testing. I am proficient in SQL and various testing tools and acquainted with programming in JavaScript and Python. I always eager to learn and explore new technologies to enhance my skills.
 
 
 
